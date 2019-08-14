@@ -1,8 +1,8 @@
 **Summary**
 
-This is my first project "Explore Weather Trends" for Analyst Nanodegree by Udacity. In this project, I analyze local (Houston) and global temperature data and compares local (Houston) temperature trends to overall global temperature trends.
+This is my first project "Explore Weather Trends" for Data Analyst Nanodegree by Udacity. In this project, I analyze local (Houston) and global temperature data and compare local (Houston) temperature trends to overall global temperature trends.
 
-To analysis temperature trends, SQL queries were written to extract the data from a database, moving averages calculations were performed to smooth data, data visualization were created using Excel. Finally, the report provides the similarities and differences between local (Houston) and global temperatures.
+To analysis temperature trends, SQL queries were written to extract the data from a database, moving average calculations were performed to smooth data, data visualization were created using Excel. Finally, the report provides the similarities and differences between local (Houston) and global temperatures.
 
 Overall conclusions for the temperature data analysis are:
 * Both global and Houston are getting warmer.
@@ -13,5 +13,5 @@ Overall conclusions for the temperature data analysis are:
 **Objective**
 
 * To get familiar with SQL, and practice to download data from a database. 
-* To ceate a visualization using Excel and analyze local and global temperature data. 
+* To create a visualization using Excel, and analyze local and global temperature data. 
 * To accurately make four observations.
